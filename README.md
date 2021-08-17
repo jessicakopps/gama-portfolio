@@ -7,8 +7,9 @@ Projeto realizado no módulo de CSS com a professore Kai Pimenta.  <br/>
    
 [***Visite o projeto aqui***](https://jessica-kopps.vercel.app/)<br />
 
-[![ke769SW.png](https://i.imgur.com/ke769SW.png)](https://imgur.com/ke769SW)
- </div>
+
+[![9Z592jc.png](https://i.imgur.com/9Z592jc.png)](https://imgur.com/9Z592jc)
+</div>
 
 
 
