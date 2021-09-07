@@ -1,4 +1,4 @@
-## Gama Academy - Portfólio :hammer_and_wrench: EM CONSTRUÇÃO :hammer_and_wrench: <br/>
+## Gama Academy - Portfólio <br/>
 Projeto realizado no módulo de CSS com a professore Kai Pimenta.  <br/>
 
 
